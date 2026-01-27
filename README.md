@@ -1,4 +1,4 @@
-# ⚖️ BMI Calculator (Tkinter)
+# ⚖️ BMI Calculator
 
 A desktop application to calculate **Body Mass Index (BMI)** developed in Python using the **Tkinter** library. This project features a dynamic UI that provides real-time health classifications based on user input.
 
