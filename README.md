@@ -38,7 +38,7 @@ Click on one of the links below to download:<br>
 - [English version](https://github.com/Matheus-de-Freitas-Xavier/bmi-calculator/releases/download/v.1.0.0/BMI_calculator)<br>
 - [Brazilian Portuguese version](https://github.com/Matheus-de-Freitas-Xavier/bmi-calculator/releases/download/v.1.0.0/Calculadora_IMC)
 
-If you are on linux, will probably need permission for the program to run.
+<br>If you are on linux, download the program and will probably need permission for the program to run.
 Run this command in your terminal.
 ```bash
 chmod +x Downloads/program_name
