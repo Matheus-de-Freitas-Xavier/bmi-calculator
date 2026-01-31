@@ -26,12 +26,6 @@ A desktop application to calculate **Body Mass Index (BMI)** developed in Python
 
 You can download the ready-to-use executable in the [Releases](https://github.com/Matheus-de-Freitas-Xavier/bmi-calculator/releases/tag/v.1.0.0) section.
 
-### :window: For Windows User
-
-Click on one of the links below to download:<br>
-- [English version](https://github.com/Matheus-de-Freitas-Xavier/bmi-calculator/releases/download/v.1.0.0/BMI_calculator.exe)<br>
-- [Brazilian Portuguese version](https://github.com/Matheus-de-Freitas-Xavier/bmi-calculator/releases/download/v.1.0.0/Calculadora_IMC.exe)
-
 ### :penguin: For Linux User
 
 Click on one of the links below to download:<br>
